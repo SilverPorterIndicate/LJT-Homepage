@@ -12,6 +12,7 @@ redirect_from:
 **Junteng Liu** is a first-year PhD candidate in the HKUST NLP Group. His research focuses on natural language processing and machine learning, with interests in LLM reasoning and reinforcement learning, hallucination in vision-language models (VLM), and LLM truthfulness and interpretability.
 
 - **Name:** Junteng Liu
+- **Status:** First-year PhD candidate at HKUST NLP Group
 - **Primary research focus:** Natural language processing and machine learning
 - **Research interests:** LLM Reasoning and Reinforcement Learning; Hallucination in Vision-Language Models (VLM); LLM Truthfulness and Interpretability
 - **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
@@ -23,7 +24,6 @@ redirect_from:
 
 - **Ph.D. in Computer Science (2024–Present)** at the Hong Kong University of Science and Technology, within the HKUST NLP Group.
   - PhD supervisor: Professor Junxian He.
-  - Memory records Junteng Liu as a first-year PhD candidate at HKUST NLP Group.
 - **B.Eng. (2020–2024)** at Shanghai Jiao Tong University (SJTU).
   - Graduated from Shanghai Jiao Tong University in June 2024.
   - Professor Junxian He previously advised Junteng Liu during undergraduate studies at SJTU.
@@ -38,7 +38,7 @@ redirect_from:
 
 ## Skills and Research Interests
 
-The skills and research areas recorded in memory are:
+Key skills and research areas from the available profile include:
 
 - Natural language processing
 - Machine learning
@@ -48,7 +48,7 @@ The skills and research areas recorded in memory are:
 
 ## Publications
 
-All six publications recorded in memory are listed here. They are also presented on the [Publications subpage](/LJT-Homepage/publications/).
+All six publications are listed below and on the [Publications subpage]({{ '/publications/' | relative_url }}).
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv)
    - First author: Junteng Liu.
