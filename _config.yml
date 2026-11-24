@@ -73,18 +73,8 @@ atom_feed:
   path                   :
 
 # SEO and social profiles
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
-twitter:
-  username               : "junteng88716710"
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :
+# The GitHub profile image associated with the GitHub account recorded in memory.
+og_image                 : "https://github.com/Vicent0205.png"
 og_description           : "Junteng Liu's academic homepage, education, research experience, publications, skills, and contact information."
 social:
   type                   : Person
@@ -150,6 +140,11 @@ exclude:
   - _pages/non-menu-page.md
   - _pages/talkmap.html
   - _pages/terms.md
+  - _pages/category-archive.html
+  - _pages/collection-archive.html
+  - _pages/page-archive.html
+  - _pages/tag-archive.html
+  - _pages/sitemap.md
   - markdown_generator
   - talkmap
   - talkmap.ipynb
@@ -217,7 +212,6 @@ timezone: Etc/UTC
 
 # Plugins
 plugins:
-  - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
@@ -226,7 +220,6 @@ plugins:
 
 # Mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
