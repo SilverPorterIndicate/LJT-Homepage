@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 I am a first-year PhD candidate at the **HKUST NLP Group**. My research focuses on **natural language processing** and **machine learning**, with recorded interests in LLM reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability.
 
 ## Personal Details
