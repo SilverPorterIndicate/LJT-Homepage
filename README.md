@@ -1,13 +1,21 @@
 # Junteng Liu — LJT-Homepage
 
-This repository contains the personal academic homepage of **Junteng Liu**. It was forked from the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and configured using the personal details recorded in memory.
+Personal academic homepage for **Junteng Liu**, forked from [Academic Pages](https://github.com/academicpages/academicpages.github.io) and populated exclusively with the personal details recorded in memory.
 
-## Contents
+## Live Site
 
-- **Home / About:** [`_pages/about.md`](_pages/about.md) includes personal details, academic background, research experience, skills and research interests, all recorded publications, and contact information.
-- **Publications page:** [`_pages/publications.html`](_pages/publications.html) renders the publication collection stored in [`_publications/`](_publications/).
-- **Navigation:** [`_data/navigation.yml`](_data/navigation.yml) exposes the home page's Publications section and Contact section.
-- **Site configuration:** [`_config.yml`](_config.yml) contains the site URL, repository path, author sidebar links, and publication categories.
+<https://silverporterindicate.github.io/LJT-Homepage/>
+
+## Content
+
+- **Home / About:** [`_pages/about.md`](_pages/about.md) contains personal details, academic background, research experience, skills and research interests, all six recorded publications, and contact information.
+- **Publications page:** [`_pages/publications.html`](_pages/publications.html) renders the collection in [`_publications/`](_publications/).
+- **Navigation:** [`_data/navigation.yml`](_data/navigation.yml) links to Publications and the home page Contact section.
+- **Site configuration:** [`_config.yml`](_config.yml) defines the project URL, sidebar profile links, and publication categories.
+
+## Deployment
+
+The [`Publish Homepage`](.github/workflows/publish-homepage.yml) workflow builds the Jekyll site on pushes to `master` (or manually via **Run workflow**) and force-publishes the generated `_site/` directory to the `gh-pages` branch. GitHub Pages serves that branch with `.nojekyll`.
 
 ## Contact
 
