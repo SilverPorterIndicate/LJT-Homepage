@@ -1,9 +1,0 @@
-# Navigation links for Junteng Liu's homepage.
-# The site title in the masthead links back to the home/about page.
-
-main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Contact"
-    url: /#contact
